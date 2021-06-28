@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+C:\Users\admin\source\repos\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+C:\Users\admin\source\repos\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Calculation.resources
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.LeaveForm.resources
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Payments.resources
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Payroll.resources
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.PaySlip.resources
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.TableForm.resources
+C:\Users\admin\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Loader1.resources
